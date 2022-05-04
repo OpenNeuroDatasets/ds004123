@@ -53,3 +53,8 @@ Simulator Sickness Questionnaire.
 
 **Experimental Locations:**  Teledyne Corporation, Durham, NC.
 
+**Note 1:** This dataset has a corresponding dataset in the BCIT Calibration Driving ds004118 which has the
+15 minute driving task performed prior to this one.
+
+**Note 2:** This dataset has a corresponding dataset in the BCIT Baseline Driving ds004120 which was a 
+longer driving task in a sparse environment.
